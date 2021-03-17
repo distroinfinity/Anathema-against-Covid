@@ -1,4 +1,11 @@
 # Anathema-against-Covid
+<p align="center">
+  <img src="https://phil.cdc.gov//PHIL_Images/23311/23311_lores.jpg">
+</p>
+
+## How to run
+You need an android device with minimum Android 7(Nougat).
+
 Try out the application by visiting this [link](https://github.com/distroinfinity/Anathema-against-Covid/releases/download/v1.0/AnathemaAgainstCOVID.apk) or check the releases for the repo.
 ## Inspiration
 The inspiration to make this project emerged when last year in December me and my entire family were  tested positive for the novel Corona Virus. I wanted to build something that would make people more aware about present Covid situation around them. So they can plan their workflow and travelling decision accordingly.
